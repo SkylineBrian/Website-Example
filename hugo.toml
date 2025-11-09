@@ -6,9 +6,6 @@ preserveTaxonomyNames = true
 hasCJKLanguage = true
 publishDir = "docs"
 
-relativeURLs = true
-canonifyURLs = false
-
 [services]
   # Enable comments by entering your Disqus shortname
   [services.disqus]

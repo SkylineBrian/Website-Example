@@ -26,7 +26,7 @@
 &lt;h2 id="scrooge-coin-transaction"&gt;Scrooge Coin Transaction&lt;/h2&gt;
 &lt;p&gt;Scrooge Coin programming assignment is a little bit tricky, the video of this lesson hasn&amp;rsquo;t explained some implementation details. To help you understand the transaction data structure used in Scrooge Coin, I draw this diagram:
 
- &lt;img src="../../img/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png" alt="Scrooge Coin"&gt;
+ &lt;img src="https://skylinebrian.github.io/Website-Example/img/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png" alt="Scrooge Coin"&gt;
 
 &lt;/p&gt;</description></item><item><title>Helm介绍</title><link>https://skylinebrian.github.io/Website-Example/2018/04/16/using-helm-to-deploy-to-kubernetes/</link><pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate><guid>https://skylinebrian.github.io/Website-Example/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid><description>&lt;h2 id="前言"&gt;前言&lt;/h2&gt;
 &lt;hr&gt;
