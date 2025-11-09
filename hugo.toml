@@ -4,6 +4,10 @@ theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
+publishDir = "docs"
+
+relativeURLs = true
+canonifyURLs = false
 
 [services]
   # Enable comments by entering your Disqus shortname
@@ -14,12 +18,7 @@ hasCJKLanguage = true
 
 [pagination]
   pagerSize = 5 # frontpage pagination
-
-  publishDir = "docs"
-
-  relativeURLs = true
-  canonifyURLs = false
-
+  
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
